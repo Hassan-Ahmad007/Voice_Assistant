@@ -5,7 +5,7 @@ A seamless, real-time AI Voice Assistant that listens to your speech, processes 
 ## 🚀 Live Demo
 
 You can interact with the live application here:
-**[https://huggingface.co/spaces/hassan121ahmad/AI_Voice_Assistant]**
+**https://huggingface.co/spaces/hassan121ahmad/AI_Voice_Assistant**
 
 ## ✨ Features
 - **Automatic Speech Recognition (ASR):** Powered by `faster-whisper` for high-speed, accurate transcription.
